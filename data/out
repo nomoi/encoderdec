@@ -1,0 +1,9 @@
+Found 11557 unique words
+With vocab size 1000, the least frequent word is trespass with 43 occs.
+Replacing rare words
+numifying...
+Start token index: 997
+[[997, 995, 994, 863, 962, 792, 0, 996, 998], [997, 995, 0, 989, 998]]
+[[997, 995, 0, 989, 998], [997, 995, 558, 962, 949, 994, 766, 992, 994, 45, 993, 998]]
+Skipped 47534 pairs
+75280 pairs saved

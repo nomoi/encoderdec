@@ -1,0 +1,63 @@
+[09-06-16-00-20: Loss after 145518 examples = 0.549609]
+ * START_TOKEN take away the wicked from before the king , END_TOKEN =>
+   and he said unto him yet again , END_TOKEN
+ * START_TOKEN are they not written in the book of the chronicles of the kings of israel ? END_TOKEN =>
+   and all knees shall be weak as water . END_TOKEN
+ * START_TOKEN UNK the ordinance of god : END_TOKEN =>
+   and find the knowledge of god . END_TOKEN
+
+[09-06-16-03-11: Loss after 146132 examples = 0.548048]
+ * START_TOKEN and the UNK multitude that was among them fell a UNK : END_TOKEN =>
+   and , END_TOKEN
+ * START_TOKEN and he answered and told them , END_TOKEN =>
+   lest they die . END_TOKEN
+ * START_TOKEN and saw not the king's face . END_TOKEN =>
+   behold , END_TOKEN
+
+[09-06-16-06-01: Loss after 146746 examples = 0.547729]
+ * START_TOKEN but ye shall destroy their altars , END_TOKEN =>
+   and the children of israel dwelt among the canaanites , END_TOKEN
+ * START_TOKEN amen , END_TOKEN =>
+   and the moon stayed , END_TOKEN
+ * START_TOKEN and abraham ran unto the UNK , END_TOKEN =>
+   and UNK said , END_TOKEN
+
+[09-06-16-08-51: Loss after 147360 examples = 0.547104]
+ * START_TOKEN and moses was UNK to dwell with the man : END_TOKEN =>
+   and when they had received it , END_TOKEN
+ * START_TOKEN thou wilt prepare their heart , END_TOKEN =>
+   and the serpent cast out of his mouth water as a flood after the woman , END_TOKEN
+ * START_TOKEN and the sin which he hath done shall be forgiven him . END_TOKEN =>
+   and the UNK , END_TOKEN
+
+[09-06-16-11-42: Loss after 147974 examples = 0.546521]
+ * START_TOKEN surely the mountains bring him forth food , END_TOKEN =>
+   this is it that the lord spake , END_TOKEN
+ * START_TOKEN and made UNK than the heavens ; END_TOKEN =>
+   he that UNK an ox is as if he slew a man ; END_TOKEN
+ * START_TOKEN of the UNK , END_TOKEN =>
+   and they shall devour , END_TOKEN
+
+[09-06-16-14-33: Loss after 148588 examples = 0.546020]
+ * START_TOKEN in that day sing ye unto her , END_TOKEN =>
+   her new UNK , END_TOKEN
+ * START_TOKEN for he taught them as one that had authority , END_TOKEN =>
+   UNK , END_TOKEN
+ * START_TOKEN ( and they said unto him , END_TOKEN =>
+   and david reigned over all israel ; END_TOKEN
+
+[09-06-16-17-24: Loss after 149202 examples = 0.545521]
+ * START_TOKEN and what should become of her . END_TOKEN =>
+   i will go in the strength of the lord god : END_TOKEN
+ * START_TOKEN they shall come with UNK UNK : END_TOKEN =>
+   for ye build the UNK of the prophets , END_TOKEN
+ * START_TOKEN then the congregation shall offer a young bullock for the sin , END_TOKEN =>
+   UNK , END_TOKEN
+
+[09-06-16-20-14: Loss after 149816 examples = 0.545068]
+ * START_TOKEN and there was given me a reed like unto a rod : END_TOKEN =>
+   i thank my god upon every remembrance of you , END_TOKEN
+ * START_TOKEN and they prepared them , END_TOKEN =>
+   and they shall possess an ark of shittim wood : END_TOKEN
+ * START_TOKEN our lord , END_TOKEN =>
+   and the whole assembly of the congregation of israel shall kill it in the evening . END_TOKEN
